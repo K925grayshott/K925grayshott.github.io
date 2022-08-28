@@ -22,7 +22,7 @@ url : "https://www.k925grayshott.com"
 twitter_username: username
 github : [metadata]
 github_username: K925grayshott
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -82,6 +82,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/k925grayshott"
 
+feed:
+  disable: true
 defaults:
   # _posts
   - scope:
@@ -94,6 +96,7 @@ defaults:
       comments: true
       share: true
       related: true
+      sitemap: false
   # _pages
   - scope:
       path: "_pages"
@@ -101,7 +104,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+      sitemap: true
+  - scope:
+      path: 'assets/'
+      values:
+      sitemap: false      
 category_archive:
   type: liquid
   path: /categories/
