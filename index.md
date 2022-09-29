@@ -6,56 +6,54 @@ permalink: /
 excerpt: >
   Dog walking service around the Grayshott area.
 header:
-  overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/page-features/webp/60/index.webp
+  overlay_image: /assets/images/mebon.jpg
   actions:
   - label: "<i class='fas fa-envelope'></i> Email"
     url: "mailto:k925Grayshott@gmail.com"
   - label: "<i class='fas fa-phone'></i> Call"
     url: "tel:+447880791971"
 
-feature_row_covid:
 feature_row_who_what_why:
-  - image_path: /assets/images/webp/home-why.webp
-    alt: "Why Chattertots?"
-    title: "Why ?"
+  - image_path: /assets/images/blackline.jpg
+    alt: "Services"
+    title: "Services"
     excerpt: >
-      > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"
-       
-      > "Thank you so much for your help with F. Over the last few weeks, you have been so patient and encouraging. We now can't stop him talking!"
-    url: "/testimonials/"
-  - image_path: /assets/images/webp/home-what.webp
-    alt: "What you can expect from us"
-    title: "What ?"
+      <b>Dog Walking</b>
+
+      Group or Solo Dog walks including pick up & drop off with your furry friend having had plenty of fun along the way. They will be provided with water & toweled down before returning.
+
+     <b>Drop In</b>
+
+     Flexible service to suit your individual requirements be it feeding your pets to watering the plants.
+
+     <b>Pet Taxi<b/>
+
+     I can securely transport you & your pet to the Vets or Dog Groomers, & wait to transport you home again.
+
+     <b>Additional Services<b/>
+
+     I would be happy to discus care for your other pets or anything you may require additionally whilst on a walk or during a visit.
+     url:"/pricing/"
+  - image_path: /assets/images/blackline.jpg
+    alt: "Process"
+    title: "Process"
     excerpt: >
-      After an initial discussion about your child's needs and you decide to employ Chattertots to help, the next course of action will be one of the following:
+      We would meet for an initial no obligation pre service visit to discuss you & your dog's individual requirements. This could be at your home or on a short walk if you prefer.
 
-      - 6-8 weekly 1:1 therapy sessions followed by a short break and then a review.
-
-      - Advice or activities to try at home and then a review in around 3 months onward referral to other services.
-
-      - a school/nursery visit to gather more information or to liaise with school staff.
-
-      - a home program followed by a review at a later date.
-
-      
-      We use a number of techniques, services and apps and have training in [different approaches](/specialisms) to help your child and get the most from our sessions together. 
-      
-    url: "/what-to-expect/"
-  - image_path: /assets/images/webp/home-who.webp
-    alt: "Who is Chattertots?"
-    title: "Who ?"
+      I do ask that your dog is fully vaccinated with up to date flea & worming.  
+  - image_path: /assets/images/blackline.jpg
+    alt: "About"
+    title: "About"
     excerpt: >
-      Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 11 years.
+      My name is Steph, I am a keen animal lover who has had the opportunity to follow my dream of working with animals. My dog walking & pet sitting service covers Grayshott & surrounding areas.
 
+      My wife Emma & I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie & 2 cats, Pepper & Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours & weekends to start K925.
 
-      Based in Godalming, we cover Witley, Chiddingfold, Haslemere, Hindhead, Elstead, Farnham, Ash, Worplesdon, Guildford, Shalford, Chilworth, Shere, Cranleigh and surrounding areas in West Surrey and parts of North-East Hampshire.
-            
-      
-      We provide private therapy at home-based clinics, schools, your home or via [Teletherapy](/teletherapy)
+      I am fully insured & have completed diploma courses in Dog Walking & Pet Sitting which includes Animal First Aid & also in Canine Communication.
 
-    url: "/about"
+      I aim to provide a professional, reliable service & quality care for your furry friends.
+
 
 gallery:
   - url: https://www.asltip.com/members/mrs-louise-hibbert
@@ -72,8 +70,7 @@ gallery:
     title: "Link to my membership of Health and Care Professionals Council"
 ---
 
-<!-- {% include feature_row id="feature_row_covid" type="center" %} -->
 
-<!-- {% include feature_row id="feature_row_who_what_why" %} -->
+{% include feature_row id="feature_row_who_what_why" %}
 
 <!-- {% include gallery type="center" %} -->
