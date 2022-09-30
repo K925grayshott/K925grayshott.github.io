@@ -15,7 +15,7 @@ header:
     url: "tel:+447880791971"
 
 feature_row_who_what_why:
-  - image_path: /assets/images/blackline.jpg
+  - image_path: /assets/images/BlackLine.jpg
     alt: "Services"
     title: "Services"
     excerpt: >
@@ -35,14 +35,14 @@ feature_row_who_what_why:
 
      I would be happy to discus care for your other pets or anything you may require additionally whilst on a walk or during a visit.
      url:"/pricing/"
-  - image_path: /assets/images/blackline.jpg
+  - image_path: /assets/images/BlackLine.jpg
     alt: "Process"
     title: "Process"
     excerpt: >
       We would meet for an initial no obligation pre service visit to discuss you & your dog's individual requirements. This could be at your home or on a short walk if you prefer.
 
       I do ask that your dog is fully vaccinated with up to date flea & worming.  
-  - image_path: /assets/images/blackline.jpg
+  - image_path: /assets/images/BlackLine.jpg
     alt: "About"
     title: "About"
     excerpt: >
