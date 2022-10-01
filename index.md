@@ -1,6 +1,6 @@
 ---
 layout: splash
-last_modified_at: 2020-09-01
+last_modified_at: 2022-10-01
 title: K925 Grayshott Dogwalking
 permalink: /
 excerpt: >
@@ -18,6 +18,8 @@ feature_row_who_what_why:
   - image_path: /assets/images/BlackLine.jpg
     alt: "Services"
     title: "Services"
+    url: "/pricing/"
+    btn_label: "Read More"
     excerpt: >
       <b>Dog Walking</b>
 
@@ -33,8 +35,9 @@ feature_row_who_what_why:
 
      <b>Additional Services<b/>
 
-     I would be happy to discus care for your other pets or anything you may require additionally whilst on a walk or during a visit.
-     url:"/pricing/"
+     I would be happy to discuss care for your other pets or anything you may require additionally whilst on a walk or during a visit.
+       
+     
   - image_path: /assets/images/BlackLine.jpg
     alt: "Process"
     title: "Process"
@@ -42,6 +45,7 @@ feature_row_who_what_why:
       We would meet for an initial no obligation pre service visit to discuss you & your dog's individual requirements. This could be at your home or on a short walk if you prefer.
 
       I do ask that your dog is fully vaccinated with up to date flea & worming.  
+       
   - image_path: /assets/images/BlackLine.jpg
     alt: "About"
     title: "About"
@@ -53,7 +57,6 @@ feature_row_who_what_why:
       I am fully insured & have completed diploma courses in Dog Walking & Pet Sitting which includes Animal First Aid & also in Canine Communication.
 
       I aim to provide a professional, reliable service & quality care for your furry friends.
-
 
 gallery:
   - url: https://www.asltip.com/members/mrs-louise-hibbert
