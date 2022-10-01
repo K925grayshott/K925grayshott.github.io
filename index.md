@@ -23,7 +23,7 @@ feature_row_who_what_why:
     excerpt: >
       <b>Dog Walking</b>
 
-      Group or Solo Dog walks including pick up & drop off with your furry friend having had plenty of fun along the way. They will be provided with water & toweled down before returning.
+      Group or Solo Dog walks including pick up and drop off with your furry friend having had plenty of fun along the way. They will be provided with water and toweled down before returning.
 
      <b>Drop In</b>
 
@@ -31,7 +31,7 @@ feature_row_who_what_why:
 
      <b>Pet Taxi<b/>
 
-     I can securely transport you & your pet to the Vets or Dog Groomers, & wait to transport you home again.
+     I can securely transport you and your pet to the Vets or Dog Groomers, and wait to transport you home again.
 
      <b>Additional Services<b/>
 
@@ -42,21 +42,21 @@ feature_row_who_what_why:
     alt: "Process"
     title: "Process"
     excerpt: >
-      We would meet for an initial no obligation pre service visit to discuss you & your dog's individual requirements. This could be at your home or on a short walk if you prefer.
+      We would meet for an initial no obligation pre service visit to discuss you and your dog's individual requirements. This could be at your home or on a short walk if you prefer.
 
-      I do ask that your dog is fully vaccinated with up to date flea & worming.  
+      I do ask that your dog is fully vaccinated with up to date flea and worming.  
        
   - image_path: /assets/images/BlackLine.jpg
     alt: "About"
     title: "About"
     excerpt: >
-      My name is Steph, I am a keen animal lover who has had the opportunity to follow my dream of working with animals. My dog walking & pet sitting service covers Grayshott & surrounding areas.
+      My name is Steph, I am a keen animal lover who has had the opportunity to follow my dream of working with animals. My dog walking & pet sitting service covers Grayshott and surrounding areas.
 
-      My wife Emma & I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie & 2 cats, Pepper & Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours & weekends to start K925.
+      My wife Emma and I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie and 2 cats, Pepper & Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours & weekends to start K925.
 
-      I am fully insured & have completed diploma courses in Dog Walking & Pet Sitting which includes Animal First Aid & also in Canine Communication.
+      I am fully insured and have completed diploma courses in Dog Walking and Pet Sitting which includes Animal First Aid and also in Canine Communication.
 
-      I aim to provide a professional, reliable service & quality care for your furry friends.
+      I aim to provide a professional, reliable service and quality care for your furry friends.
 
 gallery:
   - url: https://www.asltip.com/members/mrs-louise-hibbert
