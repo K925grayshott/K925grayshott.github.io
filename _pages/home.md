@@ -6,7 +6,7 @@ permalink: /
 excerpt: Dog walking service around the Grayshott area.
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/MeBon.jpg
+  overlay_image: "/assets/images/MeBon.jpg"
   actions:
   - label: "<i class='fas fa-envelope'></i> Email"
     url: "mailto:k925Grayshott@gmail.com"
@@ -14,7 +14,7 @@ header:
     url: "tel:+447880791971"
 
 feature_row_who_what_why:
-  - image_path: /assets/images/BlackLine.jpg
+  - image_path: "/assets/images/BlackLine.jpg"
     alt: "Services"
     title: "Services"
     url: "/pricing/"
@@ -37,7 +37,7 @@ feature_row_who_what_why:
      I would be happy to discuss care for your other pets or anything you may require additionally whilst on a walk or during a visit.
        
      
-  - image_path: /assets/images/BlackLine.jpg
+  - image_path: "/assets/images/BlackLine.jpg"
     alt: "Process"
     title: "Process"
     excerpt: >
@@ -45,7 +45,7 @@ feature_row_who_what_why:
 
       I do ask that your dog is fully vaccinated with up to date flea and worming.  
        
-  - image_path: /assets/images/BlackLine.jpg
+  - image_path: "/assets/images/BlackLine.jpg"
     alt: "About"
     title: "About"
     excerpt: >
