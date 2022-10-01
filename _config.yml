@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/k925grayshott"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-official"
+      icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/k925grayshott"
 footer:
   links:
@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/k925grayshott"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-official"
+      icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/k925grayshott"
 feed:
   disable: true
