@@ -3,11 +3,10 @@ layout: splash
 last_modified_at: 2022-10-01
 title: K925 Grayshott Dogwalking
 permalink: /
-excerpt: >
-  Dog walking service around the Grayshott area.
+excerpt: Dog walking service around the Grayshott area.
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/mebon.jpg
+  overlay_image: /assets/images/MeBon.jpg
   actions:
   - label: "<i class='fas fa-envelope'></i> Email"
     url: "mailto:k925Grayshott@gmail.com"
