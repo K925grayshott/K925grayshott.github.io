@@ -1,6 +1,6 @@
 ---
+title: "Pricing and services"
 permalink: /pricing/
-title: "Pricing & services"
 ---
 
 <b>Dog Walking</b>
