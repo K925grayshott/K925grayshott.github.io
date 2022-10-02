@@ -1,10 +1,10 @@
 ---
-title: "Pricing and services"
+title: "Pricing"
 permalink: /pricing/
 header:
   overlay_filter: "0.5"
   overlay_image: "/assets/images/K925LogoPage.png"
-excerpt: Dog walking service around the Grayshott area.
+excerpt: Dog walking services around the Grayshott area.
 ---
 
 <b>Dog Walking</b>

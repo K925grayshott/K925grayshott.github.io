@@ -3,7 +3,7 @@ layout: splash
 last_modified_at: 2022-10-01
 title: K925 Grayshott Dogwalking
 permalink: /
-excerpt: Dog walking service around the Grayshott area.
+excerpt: Dog walking services around the Grayshott area.
 header:
   overlay_filter: "0.5"
   overlay_image: "/assets/images/MeBon.jpg"
