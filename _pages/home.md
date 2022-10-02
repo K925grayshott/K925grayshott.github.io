@@ -22,13 +22,13 @@ feature_row:
 
 
 
+      My wife Emma and I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie and 2 cats, Pepper and Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours & weekends to start K925.
+
+
+
       My dog walking & pet sitting service covers Grayshott and surrounding areas.
-
-      
-      
-      My wife Emma and I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie and 2 cats, Pepper & Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours & weekends to start K925.
-
-      
+  
+     
       
       I am fully insured and have completed diploma courses in Dog Walking and Pet Sitting which includes Animal First Aid and also in Canine Communication.
 
@@ -40,6 +40,7 @@ feature_row:
     title: "Services"
     url: "/pricing/"
     btn_label: "Read More"
+    btn_class: "btn--inverse"
     excerpt: >
       <b>Dog Walking</b>
       
@@ -75,7 +76,13 @@ feature_row:
     alt: "Photo by Johann: https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/"
     title: "Process"
     excerpt: >
-      We would meet for an initial no obligation pre service visit to discuss you and your dog's individual requirements. This could be at your home or on a short walk if you prefer.
+      We would meet for an initial no obligation pre-service visit to discuss you and your dog's individual requirements. 
+      
+      
+      
+      This could be at your home or on a short walk if you prefer.
+
+
 
       I do ask that your dog is fully vaccinated with up to date flea and worming.    
 gallery:

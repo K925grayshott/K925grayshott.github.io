@@ -1,6 +1,10 @@
 ---
 title: "Pricing and services"
 permalink: /pricing/
+header:
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/K925LogoPage.png"
+
 ---
 
 <b>Dog Walking</b>

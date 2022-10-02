@@ -66,12 +66,15 @@ whitelist:
 
 author:
   name: "Stephane Rankin"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/K925Logo.png"
   bio: "For the love of dogs"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.k925grayshott.com"
+    - label: "Call"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+447880791971"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:k925grayshott@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/k925grayshott"
@@ -80,6 +83,12 @@ author:
       url: "https://facebook.com/k925grayshott"
 footer:
   links:
+    - label: "Call"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+447880791971"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:k925grayshott@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/k925grayshott"
