@@ -22,11 +22,11 @@ feature_row:
 
 
 
-      My wife Emma and I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie and 2 cats, Pepper and Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours & weekends to start K925.
+      My wife Emma and I have a young son, a beautiful Sprollie ( Border Collie, Springer Spaniel Cross ) called Bonnie and 2 cats, Pepper and Peach. My family was the driving force behind me leaving my Sales Kitchen Designer job with its long hours and weekends to start K925.
 
 
 
-      My dog walking & pet sitting service covers Grayshott and surrounding areas.
+      My dog walking and pet sitting service covers Grayshott and surrounding areas.
   
      
       
