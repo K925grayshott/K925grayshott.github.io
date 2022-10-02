@@ -37,7 +37,7 @@ feature_row:
       I aim to provide a professional, reliable service and quality care for your furry friends.
   - image_path: "/assets/images/pexels-valeria-boltneva-13074579.jpg"
     alt: "Photo by Valeria Boltneva: https://www.pexels.com/photo/big-brown-dog-rolling-in-grass-13074579/"
-    title: "Services"
+    title: "What I offer"
     url: "/pricing/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -74,9 +74,9 @@ feature_row:
   - image_path: "/assets/images/pexels-johann-1254140.jpg"
 
     alt: "Photo by Johann: https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/"
-    title: "Process"
+    title: "How to get started"
     excerpt: >
-      We would meet for an initial no obligation pre-service visit to discuss you and your dog's individual requirements. 
+      We would meet for an initial no obligation pre- service visit to discuss you and your dog's individual requirements. 
       
       
       
@@ -84,7 +84,11 @@ feature_row:
 
 
 
-      I do ask that your dog is fully vaccinated with up to date flea and worming.    
+      I do ask that your dog is fully vaccinated with up to date flea and worming.  
+    url: "tel:+447880791971"
+    btn_label: "Call now"
+    btn_class: "btn--inverse"
+
 gallery:
   - url: https://www.asltip.com/members/mrs-louise-hibbert
     image_path: /assets/images/webp/ASLTIP.webp
