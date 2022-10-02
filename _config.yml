@@ -65,9 +65,9 @@ whitelist:
 
 
 author:
-  name   : "Stephane Rankin"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "For the love of dogs"
+  name: "Stephane Rankin"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "For the love of dogs"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -109,10 +109,6 @@ defaults:
       layout: single
       author_profile: true
       sitemap: true
-  - scope:
-      path: 'assets/'
-      values:
-      sitemap: false      
 category_archive:
   type: liquid
   path: /categories/
